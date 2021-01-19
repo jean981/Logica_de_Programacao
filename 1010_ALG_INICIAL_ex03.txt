@@ -1,0 +1,20 @@
+// Algoritmo   :" Desafio sequencia aleatoria de valores"
+// Disciplina  : [Linguagem e Lógica de Programação] 
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo desafio sequencia aleatoria de N
+// Autor(a)    : 
+// Data atual  : 05/03/2018
+
+Var
+// Seção de Declarações das variáveis 
+	 valor1, valor2,soma : inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   aleatorio on
+   valor1 <- randi(100)
+   valor2 <- randi(100)
+   soma   <- valor1 + valor2
+   escreval("A soma de ",valor1," + ",valor2," é ", soma)
+
+Fimalgoritmo
