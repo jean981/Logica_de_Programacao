@@ -1,0 +1,19 @@
+Algoritmo "verifica_primo"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para efetuar a soma entre dois valores
+// Autor(a)    : Prof. Jean de Sá
+// Data atual  : 07/09/2017
+Var
+// Seção de Declarações das variáveis 
+ valor1, valor2: inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   escreval("Informe o primeiro valor : ")
+   leia(valor1)
+   escreval("Informe o  segundo valor : ")
+   leia(valor2)
+   escreval (" A soma de ",valor1," +",valor2," é ",valor1+valor2)
+
+Fimalgoritmo
