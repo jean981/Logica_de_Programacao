@@ -9,15 +9,20 @@
 // Algoritmo   : "1010_ALG_INICIAL_ex00"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : Jean Pereira de Sá
-// Descrição   : Algoritmo para efetuar a soma entre dois valores
-// Autor(a)    :
+// Descrição   : Algoritmo para receber um nome
+// Autor(a)    : escreva seu nome aqui
 // Data atual  : dd/mm/aaaa
 
 // Algoritmo   : "1011_ALG_CONDICAO_ex00"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : Jean Pereira de Sá
 // Descrição   : Algoritmo verificar se 2 valores são iguais
-// Autor(a)    :
+// Autor(a)    : escreva seu nome aqui
 // Data atual  : dd/mm/aaaa
 
-
+// Algoritmo   :"1111_ALG_CONDICAO_ESCOLHA_ex01"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para ler valor n de 1 a 3
+// Autor(a)    : escreva seu nome aqui
+// Data atual  : dd/mm/aaaa
