@@ -13,3 +13,11 @@
 // Autor(a)    :
 // Data atual  : dd/mm/aaaa
 
+// Algoritmo   : "1011_ALG_CONDICAO_ex00"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo verificar se 2 valores são iguais
+// Autor(a)    :
+// Data atual  : dd/mm/aaaa
+
+
