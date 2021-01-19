@@ -16,3 +16,4 @@
 #
 # 1010_ALG_INICIAL_ex01 :: Algoritmo para receber e escrever um nome
 # 1010_ALG_INICIAL_ex02 :: Algoritmo para efetuar a soma entre dois valores
+# 1010_ALG_INICIAL_ex03 :: Desafio sequencia aleatoria de valores
