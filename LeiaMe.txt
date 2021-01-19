@@ -10,3 +10,9 @@
 # Nesta pasta estarão listados todos os arquivos que
 # utilizaremos nas aulas. Exercicios propostos e suas
 # resoluções.
+#
+#
+# Lista de Exercicios ::             
+#
+# 1010_ALG_INICIAL_ex01 :: Algoritmo para receber e escrever um nome
+# 1010_ALG_INICIAL_ex02 :: Algoritmo para efetuar a soma entre dois valores
