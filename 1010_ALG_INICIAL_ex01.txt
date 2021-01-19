@@ -11,7 +11,7 @@ programa
 	{
 		caractere _nome
 
-		escreva(" O dia está bonito")
+		escreva(" O dia está bonito!")
 		escreva(" \n Informe o seu nome: ")
 		leia (_nome)
 		escreva ("\n O seu nome é : ",_nome)
