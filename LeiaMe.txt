@@ -1,0 +1,7 @@
+#=====================================#
+#=============IMPORTANTE==============#
+#=====================================#
+#
+#
+# Esta pasta contem os arquivos txt dos exercicios
+# propostos no formato algoritmo descritivo ou portugol.
