@@ -1,0 +1,15 @@
+#--------------------------------------------#
+#Implementado por: Jean de Sa................#
+#............................................#
+#Aprendiz - Linux............................#
+#............................................#
+#Conteudo retirado de varios posts do VOL....#
+#............................................#
+
+// Algoritmo   : "1010_ALG_INICIAL_ex00"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para efetuar a soma entre dois valores
+// Autor(a)    :
+// Data atual  : dd/mm/aaaa
+
