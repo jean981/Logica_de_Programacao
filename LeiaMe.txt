@@ -12,8 +12,19 @@
 # resoluções.
 #
 #
-# Lista de Exercicios ::             
+# Lista de Exercicios   ::             
 #
 # 1010_ALG_INICIAL_ex01 :: Algoritmo para receber e escrever um nome
 # 1010_ALG_INICIAL_ex02 :: Algoritmo para efetuar a soma entre dois valores
 # 1010_ALG_INICIAL_ex03 :: Desafio sequencia aleatoria de valores
+# 1010_ALG_INICIAL_ex04 :: Recebe o valor de x e somar com 7+12
+# 1010_ALG_INICIAL_ex05 :: Calcular o valor da expressao x2+3x-5x+2
+# 1010_ALG_INICIAL_ex06 :: Calcular a area de um retangulo
+# 1010_ALG_INICIAL_ex07 :: Calcular a area de um retangulo e um quadrado
+# 1010_ALG_INICIAL_ex08 :: Converter a temperatura entre °F °C
+# 1010_ALG_INICIAL_ex09 :: Calcular valores dos cubos de N + 3
+# 1010_ALG_INICIAL_ex10 :: Mostrar o resultado de divisao parte inteira e resto
+#
+# Lista de Exercicios :: 
+# 
+#
