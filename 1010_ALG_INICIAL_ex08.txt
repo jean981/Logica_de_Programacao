@@ -1,0 +1,29 @@
+// Algoritmo   : "1010_ALG_INICIAL_ex08"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para transformar °F em °C
+// Autor(a)    : Prof. Jean de Sá
+// Data atual  : 31/07/2018
+// Modulo      : Modulo I
+// Versao      : v.0.28.a
+
+Var
+// Seção de Declarações das variáveis
+        _F,_C : real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+   escreval(":: Conversor de temperatura :: ")
+   escreva("Informe uma temperatura em °F:  ")
+   leia(_F)
+   escreval("Convertendo valores ...")
+   timer 2000
+   _C <- (5 *((_F - 32)/9))
+   escreval("Calculando ")
+   timer 2000
+   escreval("Temperatura convertida: ")
+   escreval(_F,"°Fahrenheit.")
+   escreval(" ",_C:2,"°Celsius.")
+
+Fimalgoritmo
+

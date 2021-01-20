@@ -1,0 +1,28 @@
+// Algoritmo   : "1010_ALG_INICIAL_ex06"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para calcular area do retangulo
+// Autor(a)    : Prof. Jean de Sá
+// Data atual  : 25/06/2018
+// Modulo      : Modulo I
+// Versao      : v.0.27.b
+
+Var
+// Seção de Declarações das variáveis
+        base,altura,area : real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+   escreval(":: Calculador de Áreas do Retangulo :: ")
+   escreva("Informe um valor para a base: ")
+   leia(base)
+   escreval("Informe o valor da altura: ")
+   leia(altura)
+   escreval("Aguarde ...")
+   timer 2000
+   area <- base * altura
+   escreval("Calculando ")
+   escreval("A área do retangulo é ",area,"m2.")
+
+Fimalgoritmo
+

@@ -1,0 +1,28 @@
+// Algoritmo   : "1010_ALG_INICIAL_ex09"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para calcular a soma do cubo e quadrado de N
+// Autor(a)    : Prof. Jean de Sá
+// Data atual  : 26/08/2018
+// Modulo      : Modulo I
+// Versao      : v.0.25.a
+
+Var
+// Seção de Declarações das variáveis
+        n,soma : real
+        p, r   : inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+   escreval(":: Calcular o quadrado e o cubo de N :: ")
+   escreva("Informe um numero:  ")
+   leia(n)
+   r <- quad(n)
+   escreval("O quadrado de ",n," é ",r)
+   p <- exp(n,3)
+   escreval("O cubo de ",n," é ",p)
+   soma <- p + r
+   escreval("A soma dos valores ",r," + ",p," é ",soma)
+
+Fimalgoritmo
+

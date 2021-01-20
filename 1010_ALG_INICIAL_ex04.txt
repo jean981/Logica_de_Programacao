@@ -1,0 +1,21 @@
+// Algoritmo   : "1010_ALG_INICIAL_ex04"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Recebe o valor de x e soma com 7+12
+// Autor(a)    : Jean de Sa
+// Data atual  : 04/05/2018
+// Versao      : v.0.25.a
+
+Var
+// Seção de Declarações das variáveis 
+ 	x,soma: inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   escreval("Informe um valor : ")
+   leia(x)
+   soma <- 7 + 12 + x
+   escreval (" O resultado da soma de x +(7+12) é ",soma)
+
+Fimalgoritmo
+

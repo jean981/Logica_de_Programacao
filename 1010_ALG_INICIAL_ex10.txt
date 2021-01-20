@@ -1,0 +1,32 @@
+// Algoritmo   : "1010_ALG_INICIAL_ex10"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para calcular resultados de divisao
+// Autor(a)    : Prof. Jean de Sá
+// Data atual  : 26/06/2018
+// Modulo      : Modulo I
+// Versao      : v.0.26.a
+
+Var
+// Seção de Declarações das variáveis
+        valor, resto : real
+        p_inteira    : inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+   escreval(":: Calculador de Divisoes :: ")
+   escreva("Informe um valor: ")
+   leia(valor)
+   escreval("Calculando a parte inteira da divisao:")
+   p_inteira <- valor / 2
+   timer 2000
+   limpatela()
+   escreval("Calculando o resto da divisao (módulo)")
+   resto <- valor mod 3
+   timer 2000
+   limpatela()
+   escreval("A divisao de ",valor," por 2 é ",p_inteira)
+   escreval("O resto da divisao (mod) de ",valor," por 3 é ",resto)
+
+Fimalgoritmo
+
