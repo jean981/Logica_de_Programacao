@@ -1,0 +1,26 @@
+Algoritmo "semnome"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para ler valor n e verificar valor de x
+// Autor(a)    :
+// Data atual  : 20/09/2017
+Var
+// Seção de Declarações das variáveis 
+x, soma : inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   escreva("Informe um valor para X: ")
+   leia(x)
+   soma <- x * x + 3
+   escolha (soma > 0)
+     caso (soma >= 5) e (soma <=20)
+       escreval("X é maior que 2.")
+     caso (soma >= 39)  e (soma <= 103)
+       escreval("X está entre 6 e 10.")
+     caso (soma >= 124 )
+       escreval("X é maior que 10.")
+     outrocaso
+       escreval("Valores desconhecidos.")
+   fimescolha
+Fimalgoritmo

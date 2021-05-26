@@ -1,0 +1,22 @@
+programa
+{
+
+// Disciplina  : [Linguagem e Lógica de Programação] 
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para verificar se um número é primo
+// Autor(a)    : 
+// Data atual  : 07/09/2017
+	
+	funcao inicio()
+	{
+		inteiro _x,_y,_soma
+
+		escreva(" O dia está bonito")
+		escreva(" \n Informe o valor de X: ")
+		leia (_x)
+		escreva(" Informe o valor de Y: ")
+		leia (_y)
+		_soma = (_x + _y)
+		escreva ("\n a soma dos valores é : ",_soma)
+	}
+}

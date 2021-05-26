@@ -1,0 +1,28 @@
+Algoritmo "alg_escolha_ex04"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para ler valor n e escolher par ou impar
+// Autor(a)    :
+// Data atual  : 20/09/2017
+Var
+// Seção de Declarações das variáveis 
+   n, par_impar, contador : inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   escreva("Informe um valor N: ")
+   leia(n)
+   par_impar <- n % 2
+   escolha par_impar
+     caso 0
+       para contador de 1 ate n faca
+            par_impar <- par_impar + contador
+       fimpara
+       escreval("A soma dos valores de 1 até ",n," é ",par_impar)
+     caso 1
+       para contador de n ate 100 faca
+            par_impar <- par_impar + contador
+       fimpara
+       escreval("A soma dos valores de ",n," até 100  é:",par_impar)
+   fimescolha
+Fimalgoritmo

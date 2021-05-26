@@ -1,0 +1,22 @@
+programa
+{
+
+// Disciplina  : [Linguagem e Lógica de Programação] 
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para verificar se um número é primo
+// Autor(a)    : 
+// Data atual  : 07/09/2017
+	
+	funcao inicio()
+	{
+		inteiro n
+		escreva("Informe o valor de N: ")
+		leia(n)
+		se ((n != 0) e ( n > 0))
+			escreva ("O número ",n," é maior que zero.")
+		senao se ((n != 0) e (n < 0))
+				escreva ("O número ",n," é menor que zero.")
+			 senao
+				escreva("Valor ",n," INVÁLIDO!")
+	}
+}
