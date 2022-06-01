@@ -1,0 +1,51 @@
+#--------------------------------------------#
+#Implementado por: Jean de Sa................#
+#............................................#
+#Linguagem: Java ............................#
+#............................................#
+#Referencia: Material pesquisado no google...#
+#............................................#
+#............................................#
+#--------------------------------------------#
+
+// Algoritmo   : "1010_ALG_INICIAL_ex00"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para receber um nome
+// Autor(a)    : escreva seu nome aqui
+// Data atual  : dd/mm/aaaa
+
+// Algoritmo   : "1011_ALG_CONDICAO_ex00"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo testar igualdade entre valores
+// Autor(a)    : escreva seu nome aqui
+// Data atual  : dd/mm/aaaa
+
+// Algoritmo   :"1111_ALG_CONDICAO_ESCOLHA_ex01"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para ler valor n de 1 a 3
+// Autor(a)    : escreva seu nome aqui
+// Data atual  : dd/mm/aaaa
+
+// Algoritmo   :"2020_ALG_LACO_REPETICAO_ex01"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para ler valor n de 1 a 3
+// Autor(a)    : escreva seu nome aqui
+// Data atual  : dd/mm/aaaa
+
+// Algoritmo   :"2021_ALG_VETOR_LER_ESCREVER_ex01"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para ler valor n de 1 a 3
+// Autor(a)    : escreva seu nome aqui
+// Data atual  : dd/mm/aaaa
+
+// Algoritmo   :"2022_ALG_MATRIZ_LER_ESCREVER_ex01"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Professor   : Jean Pereira de Sá
+// Descrição   : Algoritmo para ler valor n de 1 a 3
+// Autor(a)    : escreva seu nome aqui
+// Data atual  : dd/mm/aaaa
