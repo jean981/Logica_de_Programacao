@@ -14,15 +14,17 @@ Vamos utilizar uma ferramenta bem amigável e de fácil compreensão por parte d
 |  Conhecimentos Gerais | 50 %|
   
 ## Tecnologias Envolvidas: 
-
-  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-  [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-  ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-  [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
-  [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+<p align="left">
+  <a href="https://github.com/Naereen/badges/">
+    <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" alt="Open Source Yes">
+  </a>
+  <img src="https://badgen.net/badge/icon/terminal?icon=terminal&label" alt="Terminal">
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,git,idea,java&theme=light" />
+  </a>
+</p>
  
 ## Licenças:
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
